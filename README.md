@@ -4,7 +4,7 @@
 
 ##Tech
 
-# Import the required libraries and dependencies
+ Import the required libraries and dependencies
 import pandas as pd
 from pathlib import Path
 %matplotlib inline
